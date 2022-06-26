@@ -7,33 +7,33 @@ Below, I have listed each of the machine learning techniques under their respect
 
 ### Oversampling
 
-	* RandomOverSampler
+	#### RandomOverSampler
 	
 ![RandomOverSampler.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/a20f0c9bbf2087bf09ce2fc22aded860f85d88b2/Module-17-Challenge-Resources/Images/RandomOverSampler.png)
 
-	* SMOTE
+	#### SMOTE
 	
 ![SMOTE.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/17122c17ace751bb63bccd62a119288cfce57213/Module-17-Challenge-Resources/Images/SMOTE.png)
 
 ### Undersampling
 
-	* ClusterCentroids
+	#### ClusterCentroids
 
 ![ClusterCentroids.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/4c1cfdaece3460cfab392bdf2b0eb629b2408b48/Module-17-Challenge-Resources/Images/ClusterCentroids.png)
 
 ### Combination
 
-	* SMOTEENN
+	#### SMOTEENN
 
 [SMOTEEN.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/9cd085999ab7ff720884f922cfc8be1856737492/Module-17-Challenge-Resources/Images/SMOTEENN.png)
 
 ### Ensemble Learners
 
-	* BalancedRandomForestClassifier
+	#### BalancedRandomForestClassifier
 	
 ![BalancedRandomForestClassifier.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/44dcb08c0d7396d70e3194e05d30e6c58d10cc08/Module-17-Challenge-Resources/Images/BalancedRandomForestClassifier.png)
 	
-	* EasyEnsemmbleClassifier
+	#### EasyEnsemmbleClassifier
 	
 ![EasyEnsemble.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/e01eeeb6ae6c0620df361d0f4c19f7b1ae0c68ed/Module-17-Challenge-Resources/Images/EasyEnsemble.png)
 

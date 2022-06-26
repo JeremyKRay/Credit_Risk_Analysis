@@ -21,6 +21,9 @@ Ensemble Learners
 [BalancedRandomForestClassifier.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/44dcb08c0d7396d70e3194e05d30e6c58d10cc08/Module-17-Challenge-Resources/Images/BalancedRandomForestClassifier.png)
 	
 	* EasyEnsemmbleClassifier
+	
+![EasyEnsemble.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/e01eeeb6ae6c0620df361d0f4c19f7b1ae0c68ed/Module-17-Challenge-Resources/Images/EasyEnsemble.png)
+
 ## Summary
 
 Summary of results:

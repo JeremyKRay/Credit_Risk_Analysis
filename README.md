@@ -10,11 +10,16 @@ Oversampling
 	* SMOTE
 Undersampling
 	* ClusterCentroids
+
+[ClusterCentroids.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/4c1cfdaece3460cfab392bdf2b0eb629b2408b48/Module-17-Challenge-Resources/Images/ClusterCentroids.png)
+
 Combination
 	* SMOTEENN
 Ensemble Learners	
 	* BalancedRandomForestClassifier
-	https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/44dcb08c0d7396d70e3194e05d30e6c58d10cc08/Module-17-Challenge-Resources/Images/BalancedRandomForestClassifier.png
+	
+[BalancedRandomForestClassifier.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/44dcb08c0d7396d70e3194e05d30e6c58d10cc08/Module-17-Challenge-Resources/Images/BalancedRandomForestClassifier.png)
+	
 	* EasyEnsemmbleClassifier
 ## Summary
 

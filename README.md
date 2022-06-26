@@ -5,7 +5,7 @@ The purpose of this analysis was to compare several different machine learning m
 ## Results
 Below, I have listed each of the machine learning techniques under their respective categories. For each, I have included a snap shot of the balanced accuracy score and the precision and recall scores. These are 3 ways of measuring a model's performance. Below the snap shot, I have included a brief analysis. The accuracy score is simply the percentage of predictions that are correct. An accuracy score is not always an appropriate or a meaningful performance metric, however.  in machine learning, precision is a measure of how reliable a positive classification is. Recall is a measure of how likely it is that a positive classification was made when appropriate.     
 
-Oversampling
+### Oversampling
 
 	* RandomOverSampler
 	
@@ -15,17 +15,19 @@ Oversampling
 	
 ![SMOTE.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/17122c17ace751bb63bccd62a119288cfce57213/Module-17-Challenge-Resources/Images/SMOTE.png)
 
-Undersampling
+### Undersampling
 
 	* ClusterCentroids
 
 ![ClusterCentroids.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/4c1cfdaece3460cfab392bdf2b0eb629b2408b48/Module-17-Challenge-Resources/Images/ClusterCentroids.png)
 
-Combination
+### Combination
 
 	* SMOTEENN
-	
-Ensemble Learners
+
+[SMOTEEN.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/9cd085999ab7ff720884f922cfc8be1856737492/Module-17-Challenge-Resources/Images/SMOTEENN.png)
+
+### Ensemble Learners
 
 	* BalancedRandomForestClassifier
 	

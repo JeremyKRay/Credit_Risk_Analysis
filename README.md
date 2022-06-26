@@ -35,7 +35,7 @@ Below, I have listed each of the machine learning techniques under their respect
 	
 	6) EasyEnsemmbleClassifier
 	
-![EasyEnsemble.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/e01eeeb6ae6c0620df361d0f4c19f7b1ae0c68ed/Module-17-Challenge-Resources/Images/EasyEnsemble.png)
+![EasyEnsemble.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/5271adfcbb944922ce68b6f6dc5513b80a346a14/Module-17-Challenge-Resources/Images/EasyEnsemble.png)
 
 ## Summary
 

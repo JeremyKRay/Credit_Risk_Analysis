@@ -48,7 +48,7 @@ BalancedRandomForestClassifier resulted in a Balanced Accuracy score of 78.8%, P
 	
 ![EasyEnsemble.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/5271adfcbb944922ce68b6f6dc5513b80a346a14/Module-17-Challenge-Resources/Images/EasyEnsemble.png)
 
-EasyEnsemmbleClassifier resulted in a Balanced Accuracy score of 92.5%%, Precision Score of 99%, and a Recall score of 94.0%. This ensemble machine learning technique was the best performer of all at predicting credit card risk.
+EasyEnsemmbleClassifier resulted in a Balanced Accuracy score of 92.5%%, Precision Score of 99%, and a Recall score of 94.0%. This ensemble machine learning technique was the best performer of all at predicting credit risk.
 
 ## Summary
 
@@ -57,7 +57,7 @@ Below is a summary table of the results:
 
 ![summary.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/54f0ab90d3877df455a64d94ece9b21d1a5821ae/Module-17-Challenge-Resources/Images/Summary.png)
 
-A note about the F1 score included in the summary table: As you can see precision is 99% across the board, so this metric is not all that helpful on its own. By including the F1 score, however, it can still be considered in our analysis of the techniques. The F1 score is a measure of the balance between precision and recall. The lower the score, the further a part they are or the less balance there is between the two. 
+A note about the F1 score: As you can see, precision is 99% across the board, so this metric is not all that helpful on its own. By including the F1 score, however, it can still be considered in our analysis of the techniques. The F1 score is a measure of the balance between precision and recall. The lower the score, the further a part they are or the less balance there is between the two. 
 
 The lowest scores for accuracy occur when oversampling and undersampling techniques are used alone and only slightly improves with the combination technique SMOTEEN. Recall and F1 score is lowest with the undersampling technique, ClusterCentroids. And oversampling actually out performs SMOTEEN in Recall and F1. The best performers by far are the newer machine learning Ensemble techniques, with EasyEnsembleClassifier out performing them all with a 92.5% accuracy score, 99% Precision score, 94% Recall score, and 97% F1 score.
 

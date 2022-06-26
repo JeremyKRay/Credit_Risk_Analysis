@@ -14,6 +14,7 @@ Combination
 	* SMOTEENN
 Ensemble Learners	
 	* BalancedRandomForestClassifier
+	https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/44dcb08c0d7396d70e3194e05d30e6c58d10cc08/Module-17-Challenge-Resources/Images/BalancedRandomForestClassifier.png
 	* EasyEnsemmbleClassifier
 ## Summary
 

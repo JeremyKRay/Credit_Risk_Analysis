@@ -42,6 +42,6 @@ Below, I have listed each of the machine learning techniques under their respect
 Summary of results:
 Below is a summary table of the results:
 
-![summary.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/91b25012196dc096c59572969ef4b1c87f44ddcc/Module-17-Challenge-Resources/Images/Summary.png)
+![summary.png](https://github.com/JeremyKRay/Credit_Risk_Analysis/blob/54f0ab90d3877df455a64d94ece9b21d1a5821ae/Module-17-Challenge-Resources/Images/Summary.png)
 
 My recommendation would be to use either of the newer machine learning models, BalancedRandomForestClassifier or EasyEnsembleClassifier. They both have the higher accuracies and also a good balance between Precision and Recall or Sensitivity, high F1 scores. 
